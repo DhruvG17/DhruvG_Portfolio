@@ -7,11 +7,20 @@
 * Used kfold and cross validation to select the best models. 
 * Implemented the best models and evaluated the performance of those models on the test data. 
 
+![](images/Heatmap.png)
+![](images/OccupationvsIncome.png]
+
 # [Project 2: Medical Cost Linear Regression Project Overview:](https://github.com/DhruvG17/Medical_Costs)
 * Created a linear regression model that estimated the data with an r2 score of 0.8775 and a mean absolute error of 2778. 
 * Downloaded the data from Kaggle: https://www.kaggle.com/mirichoi0218/insurance
 * Did feature engenieering to turn categorical features into numerical ones, so they could be used in the linear regression algorithm 
 * Turned my features into polynomial features for more accuracy
+
+![](images/age.png)
+![](images/children.png)
+![](images/region.png)
+
+
 
 # [Project 3: Cardio Good Fitness Project Overview:](https://github.com/DhruvG17/CardioGoodFitness)
 * Created a classifier that predicts the cardio machine an individual is likely to buy with an accuracy rate of 80 percent and an f1 score of 0.84
@@ -19,3 +28,5 @@
 * Used data visulization and exploratory data analysis to come up with a customer profile for each machine 
 * Used sklearn's label encoder to encode the target column 
 * Implemented 4 machine learning algorithms and evaluated each one of them
+
+![](images/Pairplot.png)
