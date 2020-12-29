@@ -13,7 +13,7 @@
 * Did feature engenieering to turn categorical features into numerical ones, so they could be used in the linear regression algorithm 
 * Turned my features into polynomial features for more accuracy
 
-## [Project 3: Cardio Good Fitness Project Overview:](https://github.com/DhruvG17/CardioGoodFitness)
+# [Project 3: Cardio Good Fitness Project Overview:](https://github.com/DhruvG17/CardioGoodFitness)
 * Created a classifier that predicts the cardio machine an individual is likely to buy with an accuracy rate of 80 percent and an f1 score of 0.84
 * Downloaded the data from Kaggle: https://www.kaggle.com/saurav9786/cardiogoodfitness
 * Used data visulization and exploratory data analysis to come up with a customer profile for each machine 
